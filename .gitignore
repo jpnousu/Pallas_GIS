@@ -131,3 +131,5 @@ sand*.ipynb
 *.xml
 *.nc
 .DS_Store
+
+apikey.txt
